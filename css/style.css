@@ -96,61 +96,61 @@ body {
 
 /* slider images */
 .slide:first-child {
-    background: url('/img/cat1.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat1.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(2) {
-    background: url('/img/cat2.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat2.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(3) {
-    background: url('/img/cat3.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat3.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(4) {
-    background: url('/img/cat4.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat4.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(5) {
-    background: url('/img/cat5.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat5.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(6) {
-    background: url('/img/cat6.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat6.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(7) {
-    background: url('/img/cat7.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat7.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(8) {
-    background: url('/img/cat8.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat8.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(9) {
-    background: url('/img/cat9.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat9.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(10) {
-    background: url('/img/cat10.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat10.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(11) {
-    background: url('/img/cat11.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat11.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(12) {
-    background: url('/img/cat12.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat12.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(13) {
-    background: url('/img/cat13.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat13.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(14) {
-    background: url('/img/cat14.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat14.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(15) {
-    background: url('/img/cat15.jpg') no-repeat center center/cover;
+    background: url('https://github.com/edznan/cat-facts-js-slider/blob/master/img/cat15.jpg') no-repeat center center/cover;
 }
